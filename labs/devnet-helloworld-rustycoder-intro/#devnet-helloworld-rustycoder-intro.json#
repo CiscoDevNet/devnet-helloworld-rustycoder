@@ -1,0 +1,24 @@
+{
+  "labId": "devnet-helloworld-rustycoder-intro",
+  "title": "HelloWorld for the Rusty Coder : Introduction",
+  "slug": "This DevNet learning lab is aimed at helping rusty coders who may not have coded for over 5 years",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"}
+  ],
+  "tags": [
+	{"title": "DevNet HelloWorld Rusty Coder"}
+  ],
+  "related": [
+    {
+	"labId": "devnet-helloworld-rustycoder",
+	"title": "Getting Started with Writing Learning Labs"
+    }
+  ],
+  "authors": [
+      {"name": "Susie Wee", "email": "susiewee@cisco.com"}
+  ],
+  "active": true
+}
